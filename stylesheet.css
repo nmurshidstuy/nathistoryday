@@ -1,0 +1,77 @@
+body {
+	background-color: blue;
+	}
+h1 {
+	color: #0F3057;
+	font-family: 'Rouge Script', cursive;
+	text-align: center;
+	text-shadow: 1px 1px 2px rgb (204,204,204);
+	font-size: 50px;
+}
+
+p {
+	text-indent: 28px;
+	font-size: 20px;
+	background-color: white;
+	text-align: left;
+}
+#Navbar {
+	list-style-type: none;
+	margin: 0;
+	padding:0;
+	overflow: hidden;
+	background-color: #63B2BB;
+}
+#Navbaritem {
+	float: left;
+	font-size: 30px;	
+}
+#navlink {
+	display: block;
+	text-decoration: none;
+	padding: 15px 20px;
+	color: #0F3057;
+	text-shadow: 1px 1px 2px white;
+}
+#navlink:hover {
+	color: black;
+	background-color: white;
+}
+h5, h6 {
+	background-color: white;
+	text-align: left;
+}
+h5 {
+	font-size: 25px;
+	color: rgb(5, 199, 70);
+	text-shadow: 1px 1px 2px black;
+}
+h6 {
+	font-size: 21px;
+	padding-left: 30px;
+	color: rgb(5, 199, 168);
+	text-shadow: 1px 1px 2px black;
+}
+div {
+	background-color: white;
+	margin: 10px 70px;
+	padding: 25px 35px;
+}
+ol li, ul, li {
+	font-size: 20px;
+}
+table {
+	width:100%
+}
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+th, td {
+	padding: 10px;
+	font-family: helvetica;
+	font-size:19px;
+}
+th {
+	background-color: lightblue;
+}
