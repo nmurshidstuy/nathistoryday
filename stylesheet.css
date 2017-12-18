@@ -1,12 +1,12 @@
 body {
-	background-color: blue;
+	background-color: darkgreen;
 	}
 h1 {
 	color: #0F3057;
-	font-family: 'Rouge Script', cursive;
+	font-family: "Times New Roman";
 	text-align: center;
 	text-shadow: 1px 1px 2px rgb (204,204,204);
-	font-size: 50px;
+	font-size: 75px;
 }
 
 p {
@@ -20,7 +20,7 @@ p {
 	margin: 0;
 	padding:0;
 	overflow: hidden;
-	background-color: #63B2BB;
+	background-color: lightgreen;
 }
 #Navbaritem {
 	float: left;
